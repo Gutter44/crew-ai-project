@@ -1,0 +1,15 @@
+crew-ai-project/
+├── credentials/
+│   ├── credentials.json      # Place `credentials.json` here
+│   ├── .env                  # Place `.env` file here
+├── src/
+│   ├── app.py                # Place `app.py` here
+│   ├── authenticate.py       # Place `authenticate.py` here
+│   ├── integrations/
+│   │   ├── google_sheets.py  # Place `google_sheets.py` here
+│   │   ├── gmail_api.py      # Place `gmail_api.py` here
+│   │   ├── drive_api.py      # Place `drive_api.py` here
+│   ├── utils/
+│   │   ├── secrets.py        # Place `secrets.py` here
+├── requirements.txt          # Place `requirements.txt` here
+├── .gitignore                # Place `.gitignore` here
